@@ -1,4 +1,4 @@
-# node-red-contrib-soap
+# node-red-contrib-soap (THIS NODE IS CURRENTLY DEPRECATED)
 Node-red nodes that allow users to send SOAP request.
 
 
