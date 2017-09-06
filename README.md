@@ -1,7 +1,9 @@
 # node-red-contrib-soap
 Node-red nodes that allow users to send SOAP request.
 
+
 ## THIS NODE IS CURRENTLY DEPRECATED 
+
 
 ##Usages
 To set up SOAP request, create a new soap config:
